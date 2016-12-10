@@ -1670,7 +1670,7 @@
 		transition: border-bottom-color 0.2s ease, color 0.2s ease;
 		text-decoration: none;
 		color: #585858;
-		border-bottom: dotted 1px rgba(88, 88, 88, 0.5);
+		border-bottom: double 1px rgba(88, 88, 88, 0.5);
 	}
 
 		a:hover {
@@ -1714,13 +1714,13 @@
 		@media screen and (max-width: 360px) {
 
 			h1 {
-				font-size: 1.75em;
+				font-size: 1.375em;
 			}
 
 		}
 
-	h2, h3, h4, h5, h6 {
-		font-weight: 900;
+	h3, h4, h5, h6 	{
+		font-weight: 100;
 		line-height: 1.5;
 		margin: 0 0 2em 0;
 		text-transform: uppercase;
@@ -1731,7 +1731,7 @@
 		}
 
 	h2 {
-		font-size: 1.1em;
+		font-size: 1.8em;
 	}
 
 	h3 {
