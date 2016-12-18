@@ -21,12 +21,42 @@ Swift India takes care of multiple tasks, like city wise Meetups, International 
   2. Core Team - Meetup Organisers.
   3. Writers - Anyone that writes articles/tutorials in Swift India Medium Publication.
   5. Editors - Anyone that edits/modifies and publish articles/tutorials in Swift India Medium Publication.
-  6. Committer - Anyone that has commit access to the Swift India code bases.
-  7. Contributor - Anyone that contributes a patch or helps with Swift India code reviews.
+  6. Contributor/Committer - Anyone that contributes/commits a patch or helps with Swift India code bases.
 
 
+### Community Leaders
 
+Alvin Varghese (@aaalveee) and Giridhar (@giridharvc7) are the appointed representatives from Swift India, and acts as the voice of Swift India Community Leaders.
 
+### Core Team
+
+Members of the core team are selected by their contribution to the city wise Meetups, technical expertise and proven contribution to the community. The current core team members are:
+
+  1. Nayan Mujadiya - Organiser of Swift Bangalore Community and Founder of Max-Pi Technologies.
+  2. Ritesh Gupta - Organiser of Swift Delhi Community.
+  3. Ashish Kapoor - Organiser of Swift Delhi Community.
+
+### Writers
+
+Anyone can participate in writing, Contributors can write thier articles/tutorials in Medium and later they can submit it to Swift India Publication. The current writers are:
+
+  1. Saravana Kumar 
+  2. Ritesh Gupta
+
+### Editors
+
+Developers with good technical expertise can participate in editing/modifying. The current Editorial team members are:
+
+  1. Mayur Dhaka
+  2. Giridhar
+  
+  
+### Contributors
+
+Developers with good technical expertise can contribute to Swift India code bases. Swift India has different repos, each focus different concepts. The current Contributors are:
+
+  1. Sumit Paul - Building an awesome learning path to ease swift learning experience.
+  
 ----------
 
 # Code of Conduct
