@@ -8,7 +8,7 @@ The Swift India community has the singular goal of building an engaging Swift De
 
 Swift India has a dedicated Slack channel for public conversations, and we are really encouraging it. Developers can join Slack channel to have conversations regarding Apple Technologies and other stuffs. We have several dedicated channels for communication. 
 
-  1. Swift India Newsletter for weekly updates on Swift around the web and Community activities.
+  1. [Swift India Newsletter](http://swiftindia.in) for weekly updates on Swift around the web and Community activities.
   2. [Dedicated Slack channel](https://swiftindia.slack.com) for public conversations.
   3. [Twitter](https://twitter.com/swiftindiagroup) for Social activities. 
 
@@ -26,15 +26,16 @@ Swift India takes care of multiple tasks, like city wise Meetups, International 
 
 ### Community Leaders
 
-Alvin Varghese (@aaalveee) and Giridhar (@giridharvc7) are the appointed representatives from Swift India, and acts as the voice of Swift India Community Leaders.
+Alvin Varghese ([@aaalveee](https://twitter.com/aaalveee)) and Giridhar ([@giridharvc7](https://twitter.com/giridharvc7)) are the appointed representatives from Swift India, and acts as the voice of Swift India Community Leaders.
 
 ### Core Team
 
 Members of the core team are selected by their contribution to the city wise Meetups, technical expertise and proven contribution to the community. The current core team members are:
 
-  1. Nayan Mujadiya - Organiser of Swift Bangalore Community and Founder of Max-Pi Technologies.
-  2. Ritesh Gupta - Organiser of Swift Delhi Community.
-  3. Ashish Kapoor - Organiser of Swift Delhi Community.
+  1. Nayan Mujadiya - Organiser of Swift Bangalore & Chennai Communities and Founder of Max-Pi Technologies.
+  2. Giridhar VC - Organiser of Swift Chennai Community. 
+  3. Ritesh Gupta - Organiser of Swift Delhi Community.
+  4. Ashish Kapoor - Organiser of Swift Delhi Community.
 
 ### Writers
 
@@ -48,7 +49,7 @@ Anyone can participate in writing, Contributors can write thier articles/tutoria
 Developers with good technical expertise can participate in editing/modifying. The current Editorial team members are:
 
   1. Mayur Dhaka
-  2. Giridhar
+  2. Giridhar VC
   
   
 ### Contributors
