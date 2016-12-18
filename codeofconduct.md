@@ -23,3 +23,20 @@ Swift India takes care of multiple tasks, like city wise Meetups, International 
   5. Editors - Anyone that edits/modifies and publish articles/tutorials in Swift India Medium Publication.
   6. Committer - Anyone that has commit access to the Swift India code bases.
   7. Contributor - Anyone that contributes a patch or helps with Swift India code reviews.
+
+
+# Code of Conduct
+
+## Code of conduct for public conversation in Swift India Slack Group
+
+Examples of unacceptable behavior by participants include:
+
+  1. The use of sexualized language or imagery
+  2. Personal attacks
+  3. Trolling or insulting/derogatory comments
+  4. Public or private harassment
+  5. Publishing other’s private information, such as physical or electronic addresses, without explicit permission
+  6. Other unethical or unprofessional conduct
+  
+  
+  
