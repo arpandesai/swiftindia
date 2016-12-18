@@ -57,6 +57,11 @@ Developers with good technical expertise can contribute to Swift India code base
 
   1. Sumit Paul - Building an awesome learning path to ease swift learning experience.
   
+  
+## Contributing
+
+The Swift India welcomes everyone interested in the Swift programming language. Members of the community can greatly help the Swift India by organising/helping meetups, being active and participating in open conversations in Slack group, writing tutorials/articles, and of course by contributing code.
+
 ----------
 
 # Code of Conduct
@@ -65,12 +70,12 @@ Developers with good technical expertise can contribute to Swift India code base
 
 Examples of unacceptable behavior by participants include:
 
-  1. The use of sexualized language or imagery
-  2. Personal attacks
-  3. Trolling or insulting/derogatory comments
-  4. Public or private harassment
-  5. Publishing other’s private information, such as physical or electronic addresses, without explicit permission
-  6. Other unethical or unprofessional conduct
+  1. The use of sexualized language or imagery.
+  2. Personal attacks.
+  3. Trolling or insulting/derogatory comments.
+  4. Public or private harassment.
+  5. Publishing other’s private information, such as physical or electronic addresses, without explicit permission.
+  6. Other unethical or unprofessional conduct.
   
   
   
