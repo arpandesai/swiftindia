@@ -25,6 +25,10 @@ Swift India takes care of multiple tasks, like city wise Meetups, International 
   7. Contributor - Anyone that contributes a patch or helps with Swift India code reviews.
 
 
+
+
+----------
+
 # Code of Conduct
 
 ## Code of conduct for public conversation in Swift India Slack Group
