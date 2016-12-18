@@ -8,7 +8,7 @@ The Swift India community has the singular goal of building an engaging Swift De
 
 Swift India has a dedicated Slack channel for public conversations, and we are really encouraging it. Developers can join Slack channel to have conversations regarding Apple Technologies and other stuffs. We have several dedicated channels for communication. 
 
-  1. Swift India Newsletter for updates and weekly newsletter.
+  1. Swift India Newsletter for weekly updates on Swift around the web and Community activities.
   2. Dedicated Slack channel for public conversations.
   3. Twitter for Social activities. 
 
