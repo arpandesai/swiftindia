@@ -79,4 +79,9 @@ Examples of unacceptable behavior by participants include:
   6. Other unethical or unprofessional conduct.
   
   
+## License
+  
+Most contents of this code of conduct are copy/pasted from [Swift.Org](https://swift.org/community/#code-of-conduct).
+  
+The Code of Conduct for Swift India is licensed under a Creative Commons Attribution 3.0 Unported License.
   
