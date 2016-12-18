@@ -32,31 +32,31 @@ Alvin Varghese ([@aaalveee](https://twitter.com/aaalveee)) and Giridhar ([@girid
 
 Members of the core team are selected by their contribution to the city wise Meetups, technical expertise and proven contribution to the community. The current core team members are:
 
-  1. Nayan Mujadiya - Organiser of Swift Bangalore & Chennai Communities and Founder of Max-Pi Technologies.
-  2. Giridhar VC - Organiser of Swift Chennai Community. 
-  3. Ritesh Gupta - Organiser of Swift Delhi Community.
-  4. Ashish Kapoor - Organiser of Swift Delhi Community.
+  1. [Nayan Mujadiya](https://twitter.com@nayaneye) - Organiser of Swift Bangalore & Chennai Communities and Founder of Max-Pi Technologies.
+  2. [Giridhar VC](https://twitter.com/giridharvc7) - Organiser of Swift Chennai Community. 
+  3. [Ritesh Gupta](https://twitter.com/_riteshhh) - Organiser of Swift Delhi Community.
+  4. [Ashish Kapoor](https://twitter.com/iAshishKapoor) - Organiser of Swift Delhi Community.
 
 ### Writers
 
 Anyone can participate in writing, Contributors can write thier articles/tutorials in Medium and later they can submit it to Swift India Publication. The current writers are:
 
-  1. Saravana Kumar 
-  2. Ritesh Gupta
+  1. [Saravana Kumar](https://twitter.com/sarnaaas) 
+  2. [Ritesh Gupta](https://twitter.com/_riteshhh)
 
 ### Editors
 
 Developers with good technical expertise can participate in editing/modifying. The current Editorial team members are:
 
-  1. Mayur Dhaka
-  2. Giridhar VC
+  1. [Mayur Dhaka](https://twitter.com/MayurDhaka)
+  2. [Giridhar VC](https://twitter.com/giridharvc7)
   
   
 ### Contributors
 
 Developers with good technical expertise can contribute to Swift India code bases. Swift India has different repos, each focus different concepts. The current Contributors are:
 
-  1. Sumit Paul - Building an awesome learning path to ease swift learning experience.
+  1. [Sumit Paul](https://twitter.com/zen_prog) - Building an awesome learning path to ease swift learning experience.
   
   
 ## Contributing
